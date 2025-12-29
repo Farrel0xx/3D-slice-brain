@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # DICOM Dual-Series Viewer
 
 A lightweight Python-based medical imaging tool designed for side-by-side comparison of DICOM series, optimized for tumor segmentation analysis.
