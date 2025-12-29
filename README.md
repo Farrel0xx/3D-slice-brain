@@ -8,6 +8,10 @@ A lightweight Python-based medical imaging tool designed for side-by-side compar
 * **Auto-Normalization**: Applied 1st-99th percentile contrast stretching for enhanced tumor visibility.
 * **Independent Controls**: Scroll through each series independently via mouse wheel or dedicated sliders.
 
+## 📥 Dataset
+You can download the DICOM dataset (including `ST000001`, `SE000001`, etc.) from the following link:
+👉 [**Download Dataset Here**](https://drive.google.com/drive/folders/1gXbR0a22O0QRA9HxLFAtaLHwu8Vp3v9o?referrer=Farrel0xx)
+
 ## 🛠️ Prerequisites
 \`\`\`bash
 pip install pydicom numpy matplotlib
