@@ -37,9 +37,9 @@ ST000001/
 1. Clone the repository.
 2. Update the \`main_folder\` path in the script to your local data directory.
 3. Run the application:
-   \`\`\`bash
+   ```bash
    python viewer.py
-   \`\`\`
+   ```
 
 ## ⚖️ License
 MIT License. Free to use and modify for medical research and development.
