@@ -1,4 +1,4 @@
-# DICOM Dual-Series Viewer
+# ***DICOM Dual-Series Viewer***
 
 A lightweight Python-based medical imaging tool designed for side-by-side comparison of DICOM series, optimized for tumor segmentation analysis.
 
@@ -13,9 +13,9 @@ You can download the DICOM dataset (including `ST000001`, `SE000001`, etc.) from
 👉 [**Download Dataset Here**](https://drive.google.com/drive/folders/1gXbR0a22O0QRA9HxLFAtaLHwu8Vp3v9o?referrer=Farrel0xx)
 
 ## 🛠️ Prerequisites
-\`\`\`bash
+```bash
 pip install pydicom numpy matplotlib
-\`\`\`
+```
 
 ## 📂 Project Structure
 The script expects the following directory layout:
