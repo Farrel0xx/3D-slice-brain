@@ -38,7 +38,7 @@ ST000001/
 2. Update the \`main_folder\` path in the script to your local data directory.
 3. Run the application:
    ```bash
-   python viewer.py
+   python model.py
    ```
 
 ## ⚖️ License
